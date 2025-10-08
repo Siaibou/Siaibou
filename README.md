@@ -1,5 +1,9 @@
 # 🖥️ My Portfolio
 
+![Software Development](https://img.shields.io/badge/Software%20Development-2C3E50?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Hardware Projects](https://img.shields.io/badge/Hardware%20Projects-orange?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
 Welcome to my portfolio! Here, I’ve organized all my **electronics** and **software development** projects.  
 Each project is clickable and links directly to its repository.
 
