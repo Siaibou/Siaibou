@@ -7,7 +7,7 @@ Each project is clickable and links directly to its repository.
 
 ## 🔧 Electronics
 
-Project 1 | Know Your Tools - Arduino Starter Kit | https://github.com/Siaibou/Electronics_ArduinoProject/tree/main/ArduinoStarterKit/Project_1 | A beginner project to familiarize with Arduino components and basic circuits 
+Project 1 | Know Your Tools - Arduino Starter Kit | https://github.com/Siaibou/Electronics_ArduinoProject/tree/main/Project_1 | A beginner project to familiarize with Arduino components and basic circuits 
 
 ---
 
