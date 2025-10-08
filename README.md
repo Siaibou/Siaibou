@@ -19,4 +19,4 @@ Each project is clickable and links directly to its repository.
 ---
 
 Thank you for visiting!  
-If you would like to contact me : [Email me]( mailto:someone@example.com ) | [LinkedIn](https://www.linkedin.com/in/siaibouc/)
+If you would like to contact me : [Email me]( mailto:siaibou.camara@gmail.com ) | [LinkedIn](https://www.linkedin.com/in/siaibouc/)
