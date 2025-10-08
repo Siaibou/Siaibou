@@ -16,7 +16,7 @@ Each project is clickable and links directly to its repository.
 ## 📌 Notes
 
 - All projects are active, well-documented, and include full source code.  
-- Each repository contains a detailed README with setup instructions and explanations.  
+- Each repository contains a detailed README with explanations.  
 
 ---
 
