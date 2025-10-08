@@ -9,7 +9,7 @@ Each project is clickable and links directly to its repository.
 
 ---
 
-## ⚡ Electronics
+## ⚡Electronics
 
  Project | Description |
 |--------|--------------|
