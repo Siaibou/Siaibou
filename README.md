@@ -1,4 +1,4 @@
-# My Portfolio
+# Portfolio
 
 ![Electronics](https://img.shields.io/badge/Electronics-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Hardware Projects](https://img.shields.io/badge/Hardware%20Projects-orange?style=for-the-badge&logo=raspberrypi&logoColor=white)
