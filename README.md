@@ -14,7 +14,7 @@ Each project is clickable and links directly to its repository.
  Project | Description |
 |--------|--------------|
 | [Project 1 - Get to know your tools - Arduino Starter Kit](https://github.com/Siaibou/Electronics_ArduinoProject/tree/main/Project_1) | A beginner project to familiarize with Arduino components and basic circuits |
-| [Project 2 - Spaceship interface - Arduino Starter Kit](https://github.com/Siaibou/Electronics_ArduinoProject/tree/main/Project_2) | Learn to controls the behaviors of some leds based on a switch |
+| [Project 2 - Spaceship interface - Arduino Starter Kit](https://github.com/Siaibou/Electronics_ArduinoProject/tree/main/Project_2) | Learn to control the behaviors of some LEDs based on a switch |
 
 ---
 
