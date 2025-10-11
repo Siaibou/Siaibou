@@ -23,7 +23,7 @@ Each project is clickable and links directly to its repository.
  Project | Description |
 |--------|--------------|
 | [Task Scheduler](https://github.com/Siaibou/Task-Scheduler) | An app that launches computer programs or scripts at pre-defined times or after specified time intervals |
-| [PDF Manager](https://github.com/Siaibou/PDF-Manager/tree/main) | Manage your PDF files : Compression, Organize, Rotate, Split  |
+| [PDF Manager](https://github.com/Siaibou/PDF-Manager/tree/main) | PDF-Manager is a standalone application that allows you to easily manage your PDF files. |
 
 
 ---
