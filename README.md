@@ -23,8 +23,8 @@ Each project is clickable and links directly to its repository.
  Project | Description |
 |--------|--------------|
 | [Task Scheduler](https://github.com/Siaibou/Task-Scheduler) | An app that launches computer programs or scripts at pre-defined times or after specified time intervals |
-| [PDF File Compressor](https://github.com/Siaibou/PDF-File-Compressor) | Reduce the size of your PDF file  |
-| [Distance Calculator](https://github.com/Siaibou/Distance-Calculator) | Calculate the distance between two places |
+| [PDF Manager](https://github.com/Siaibou/PDF-Manager/tree/main) | Manage your PDF files : Compression, Organize, Rotate, Split  |
+
 
 ---
 
